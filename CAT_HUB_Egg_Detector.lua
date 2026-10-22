@@ -1,6 +1,5 @@
 -- Cat Hub | Egg Detector (Luau)
 -- The script carries its own copy, so auto execute works with NO file and NO URL.
-local SRC = [=====[
 -- Cat Hub | Egg Detector (Luau)
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
