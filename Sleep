@@ -1732,7 +1732,7 @@ local function performLinkBypass()
         -- PASTE YOUR TRW BYPASS API KEY BETWEEN THE QUOTES BELOW
         -- example: local apiKey = "TRW_xxxxxxxx"
         -- ============================================================
-        local apiKey = ""
+        local apiKey = "https://trw.lat/api/bypass?apikey=TRW_FREE-GAY-15a92945-9b04-4c75-8337-f2a6007281e9&url={encoded_url}"
         if apiKey == "" then
             bypassStatus.TextColor3 = COL_RED
             bypassStatus.Text = "Bypass API key needs to be configured."
