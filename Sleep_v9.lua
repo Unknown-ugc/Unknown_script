@@ -3843,7 +3843,7 @@ abChangelog.TextColor3 = COL_TEXT
 abChangelog.TextXAlignment = Enum.TextXAlignment.Left
 abChangelog.TextYAlignment = Enum.TextYAlignment.Top
 abChangelog.TextWrapped = true
-abChangelog.Text = "-- Added Player tab\n-- Added speed changer\n-- Added infinite jump\n-- Added noclip\n-- Added gravity changer\n-- Added free cam\n-- Added freeze / unfreeze / reset\n-- Added R6 / R15 preview\n-- Added 1st / 3rd person\n-- Added teleport to player\n-- Added spectate\n-- Added ESP\n-- Added anti AFK\n-- Added bypass link\n-- Added Search More Scripts\n-- Added game scripts: Blox Fruits 23, MM2 12, Fisch 13, Fish It 15, Bee Swarm 21\n-- Added 3 universal scripts: Fly, Aimbot, Hitbox Changer\n-- Added 87 scripts in total (84 game + 3 universal)\n-- Visual scripts: Steal an Egg only\n-- Fixed freeze and R6 / R15"
+abChangelog.Text = "-- Added Player tab\n-- Added speed changer\n-- Added infinite jump\n-- Added noclip\n-- Added gravity changer\n-- Added free cam\n-- Added freeze / unfreeze / reset\n-- Added R6 / R15 preview\n-- Added 1st / 3rd person\n-- Added teleport to player\n-- Added spectate\n-- Added ESP\n-- Added anti AFK\n-- Added bypass link\n-- Added Search More Scripts\n-- Added game scripts: Blox Fruits 23, MM2 12, Fisch 13, Fish It 15, Bee Swarm 21\n-- Added 3 universal scripts: Fly, Aimbot, Hitbox Changer\n-- Added 87 scripts in total (84 game + 3 universal)\n-- Fixed freeze and R6 / R15"
 abChangelog.Parent = abVer
 
 local abFree = Instance.new("Frame")
